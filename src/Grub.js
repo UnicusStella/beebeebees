@@ -7,7 +7,7 @@ class Grub {
   }
 
   eat() {
-    console.log(`${this} jelly`);
+    return 'Mmmmmmmmm jelly';
   }
 }
 
