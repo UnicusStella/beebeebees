@@ -2,7 +2,7 @@ const Grub = require('./Grub');
 
 class Bee extends Grub {
   // TODO..
-  constructor(age, color, food, job) {
+  constructor(food) {
     super(food);
     this.age = 5;
     this.color = 'yellow';

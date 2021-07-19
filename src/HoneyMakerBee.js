@@ -2,7 +2,7 @@ const Bee = require('./Bee');
 
 class HoneyMakerBee extends Bee {
   // TODO..
-  constructor(age, food, color, job, canFly, treasureChest, honeyPot) {
+  constructor(food, color) {
     super(food, color);
     this.age = 10;
     this.job = 'make honey';
