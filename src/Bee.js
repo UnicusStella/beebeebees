@@ -1,7 +1,7 @@
 const Grub = require('./Grub');
 
 class Bee extends Grub {
-  // TODO..
+  // TODO.. 여기에 작성 하세요
   constructor(food) {
     super(food);
     this.age = 5;
